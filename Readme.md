@@ -1,0 +1,1 @@
+-tickrate 128 -freq "165" -novid -high -nojoy -fullscreen
